@@ -11,5 +11,10 @@ namespace ConsoleApplication1
         {
             _objects.Add(item);
         }
+
+        public void clearcl()
+        {
+            _objects = new List<object>();
+        }
     }
 }
