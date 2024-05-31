@@ -9,6 +9,7 @@
             cl.AddObjectTocl("Тухлые яблоки");
             cl.clearcl();
             cl.AddObjectTocl("");
+            cl.AddObjectTocl("");
         }
     }
 }
