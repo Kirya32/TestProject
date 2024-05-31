@@ -10,6 +10,9 @@
             cl.clearcl();
             cl.AddObjectTocl("");
             cl.AddObjectTocl("");
+                        cl.AddObjectTocl("");
+                        cl.AddObjectTocl("");
+            
         }
     }
 }
